@@ -15,9 +15,6 @@ simply copy the code below and paste on your terminal. Open As a root recommende
  
  More information visit my youtube channel for step by step guide.
  
- If its helpful dont forget to subscribe my channel.
- 
- 
- :D
+Enjoy! :D
  
 
