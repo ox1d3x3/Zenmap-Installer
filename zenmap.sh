@@ -199,30 +199,6 @@ echo "Folder Removed"
 
 echo " "
 
-mainmenu() {
-    echo -ne "
-Do you Want to Open Zenmap?
-1) Yes
-2) No
-[Select 1 or 2]:  "
-    read -r ans
-    case $ans in
-    1)
-        Echo "Zenmap is Starting..."
-        sudo zenmap
-        exit 0
-        ;;
-    2)
-        echo "Thank you!."
-        exit 0
-        ;;
-    *)
-        echo "Invalid Request. Please Select 1 or 2."
-        mainmenu
-        ;;
-    esac
-}
-
 
 mainmenu() {
     echo -ne "
