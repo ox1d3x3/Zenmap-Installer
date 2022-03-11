@@ -15,7 +15,7 @@ echo "Version 1.1"
 echo "Developed By Ox1de"
 echo "Twitter: @ox1d3x3"
 echo "Github: @ox1de-crypto"
-echo "Youtube: https://www.youtube.com/mason7gaming"
+echo "Youtube: https://www.youtube.com/c/ox1d3x3"
 
 echo " "
 
