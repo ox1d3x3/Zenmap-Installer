@@ -11,7 +11,7 @@ echo " "
 echo " "
 
 echo "Zenmap Installer only for Debian Based Distribution"
-echo "Version 1.1"
+echo "Version 1.2"
 echo "Developed By Ox1de"
 echo "Twitter: @ox1d3x3"
 echo "Github: @ox1de-crypto"
@@ -127,7 +127,7 @@ sleep 2
 
 echo "Downloading Zenmap"
 
-wget https://nmap.org/dist/zenmap-7.92-1.noarch.rpm
+wget https://nmap.org/dist/zenmap-7.94-1.noarch.rpm
 
 echo "Done"
 
@@ -171,7 +171,7 @@ echo " Done "
 
 echo " Attempting Convert rpm to deb"
 
-sudo alien zenmap-7.92-1.noarch.rpm
+sudo alien zenmap-7.94-1.noarch.rpm
 
 echo "Done"
 
