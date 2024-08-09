@@ -11,11 +11,11 @@ echo " "
 echo " "
 
 echo "Zenmap Installer only for Debian Based Distribution"
-echo "Version 1.2"
+echo "Version 1.2.1"
 echo "Developed By Ox1de"
-echo "Twitter: @ox1d3x3"
+echo "X: @ox1d3x3"
 echo "Github: @ox1de-crypto"
-echo "Youtube: https://www.youtube.com/c/ox1d3x3"
+
 
 echo " "
 
