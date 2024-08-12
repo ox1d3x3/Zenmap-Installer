@@ -14,7 +14,7 @@ echo "Zenmap Installer only for Debian Based Distribution"
 echo "Version 1.2.1"
 echo "Developed By Ox1de"
 echo "X: @ox1d3x3"
-echo "Github: @ox1de-crypto"
+echo "Github: @ox1d3x3"
 
 
 echo " "
